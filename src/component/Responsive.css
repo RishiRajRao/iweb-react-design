@@ -1,0 +1,39 @@
+/* 576 &768 &992 px are three breakpoints */
+
+body{
+  position:absolute;
+}
+@media(max-width:576px){
+
+
+.containerL{
+/* width:100%; */
+/* background-color: yellow; */
+}
+
+.headerL{
+  height: 150rem;
+}
+.navbarL{
+  flex-direction: column;
+  margin:0 auto;
+  background-color: azure;
+  height:auto;
+  
+}
+
+.navbarL div,span{
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+ 
+}
+
+
+.bodyheadL{
+  margin-top: 300px;
+  flex-direction: column;
+
+} 
+
+}
