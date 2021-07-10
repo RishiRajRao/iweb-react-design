@@ -68,6 +68,8 @@ class Footer extends Component {
           <button> <i className="fas fa-arrow-right "></i> </button>
          </div>
         </div>
+      <p>here is the check in the footer and test </p>
+      //commentlike header
       </div>
     );
   }
