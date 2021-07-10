@@ -70,6 +70,8 @@ class Header extends Component {
         </nav>
 
         <BodyHead />
+                <p>Here is the remote change </p>
+// also some comment
       </header>
     );
   }
